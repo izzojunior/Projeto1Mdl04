@@ -22,27 +22,17 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
   
-  # Index
-  * [Description](Description)
-  * [Installation](Installation)
-  * [Running the app](RunningTheApp)
-  * [Test](Test)
-  * [Support](Support)
-  * [Stay in touch](StayInTouch)
-  * [License](License)
-  
-
-## <a name="Description"></a> Description
+## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-## <a name="Installation"></a> Installation
+## Installation
 
 ```bash
 $ npm install
 ```
 
-## <a name="RunningTheApp"></a> Running the app
+## Running the app
 
 ```bash
 # development
@@ -55,7 +45,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## <a name="Test"></a> Test
+## Test
 
 ```bash
 # unit tests
@@ -68,16 +58,16 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## <a name="Support"></a> Support
+## Support
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
-## <a name="StayInTouch"></a> Stay in touch
+## Stay in touch
 
 - Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
 - Website - [https://nestjs.com](https://nestjs.com/)
 - Twitter - [@nestframework](https://twitter.com/nestframework)
 
-## <a name="License"></a> License
+## License
 
 Nest is [MIT licensed](LICENSE).
